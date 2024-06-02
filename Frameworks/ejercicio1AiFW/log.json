@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2024-06-02T15:26:44.833833100Z</date>
+  <millis>1717342004833</millis>
+  <nanos>833100</nanos>
+  <sequence>0</sequence>
+  <logger>bd</logger>
+  <level>INFO</level>
+  <class>fwOO2.ejercicio1FW.DatabaseRealAccessProxy</class>
+  <method>getSearchResults</method>
+  <thread>1</thread>
+  <message>Se accedió a la busqueda de información exitosamente</message>
+</record>
+</log>
+jun. 02, 2024 12:30:18 P. M. fwOO2.ejercicio1FW.DatabaseRealAccessProxy getSearchResults
+INFORMACIÓN: Se accedió a la busqueda de información exitosamente
+jun. 02, 2024 12:38:19 P. M. fwOO2.ejercicio1FW.DatabaseRealAccessProxy getSearchResults
+INFORMACIÓN: Se accedió a la busqueda de información exitosamente
