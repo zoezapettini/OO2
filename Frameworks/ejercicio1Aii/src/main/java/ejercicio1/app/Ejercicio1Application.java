@@ -20,6 +20,7 @@ public class Ejercicio1Application {
         FileHandler fileHandler = new FileHandler("registro.txt");
         fileHandler.setFormatter(new SimpleFormatter());
         modeloLogger.addHandler(fileHandler);
+	interfazLogger.addHandler(fileHandler);
         SwingUtilities.invokeLater(new Runnable() {
         	public void run() {
         		new WallPostUI();
