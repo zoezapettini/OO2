@@ -26,10 +26,7 @@ public class HomeWeatherStationAdapter  implements HomeWeatherData{
 	}
 
 	public String displayData(){
-		return "Temperatura F: " + this.getTemperatura() +
-		   	  "Presión atmosf: " + this.getPresion() +
-		   	  "Radiación solar: " + this.getRadiacionSolar();
-		}
+		return "";}
 	
 	
 
